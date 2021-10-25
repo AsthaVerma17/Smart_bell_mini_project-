@@ -1,0 +1,2 @@
+# Smart_bell_mini_project-
+Hola techies ! We are here to develop an IoT based project SMART BELL under home automation. Smart Bell is an idea of transforming a normal smart bell into a smart one by using multiple sensors. We will be establishing a two way communication between the guest at the door and the host at home.    Working :  When a person arrives the door and presses the door bell button, the host will be notified in the form of a video call and he will be able to see and interact with the person at the door.
